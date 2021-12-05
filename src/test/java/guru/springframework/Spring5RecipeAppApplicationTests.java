@@ -11,7 +11,7 @@ public class Spring5RecipeAppApplicationTests {
 
 	@Test
 	public void contextLoads() {
-				
+		throw new Exception("aa");		
 
 	}
 
